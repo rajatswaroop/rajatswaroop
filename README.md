@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rajatsrivastava
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on learning data structure and algorithms
 - 📫 You can reach me rajatsrivastava502@gmail.com
 
 <!---
